@@ -10,7 +10,7 @@ var recipes = {
 var props = {
   prop:"1"
 }
-function updateObjectWithKeyAndValue(props, prop, amount){
+function updateObjectWithKeyAndValue(props, prop2, 2){
   props.prop2="2"
   return props
 }
