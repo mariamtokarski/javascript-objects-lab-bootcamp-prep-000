@@ -11,10 +11,10 @@ var props = {
   prop:"1"
 }
 
-function updateObjectWithKeyAndValue(props, key, value){
+function updateObjectWithKeyAndValue(props, prop2, amount){
   return Object.assign({}, props, {[prop2]: "2"})
 }
 
-function destructivelyUpdateObjectWithKeyAndValue(props, key, value){
+function destructivelyUpdateObjectWithKeyAndValue(props, prop2, amount){
   return props.prop2 = "2"
 }
