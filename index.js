@@ -1,9 +1,9 @@
 var recipies = {
-  oats:"2 cups", 
-  butter:"1 cup", 
-  sugar:"1.5 cups", 
-  milk:"half cup", 
-  cocoa:"5 tbsp", 
+  oats:"2 cups",
+  butter:"1 cup",
+  sugar:"1.5 cups",
+  milk:"half cup",
+  cocoa:"5 tbsp",
   vanilla:"2 tsp"
 }
 
