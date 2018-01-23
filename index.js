@@ -1,4 +1,4 @@
-var recipies = {
+var recipes = {
   oats:"2 cups",
   butter:"1 cup",
   sugar:"1.5 cups",
