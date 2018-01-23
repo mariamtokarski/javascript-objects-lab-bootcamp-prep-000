@@ -7,7 +7,10 @@ var recipes = {
   vanilla:"2 tsp"
 }
 
-function updateObjectWithKeyAndValue(recipes, prop, amount){
-  recipes.prop = "1"
+var production = {
+  prop:"1"
+}
+function updateObjectWithKeyAndValue(production, prop, amount){
+  recipes.prop2 = "2"
   return recipes
 }
