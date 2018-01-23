@@ -9,6 +9,5 @@ var recipes = {
 
 function updateObjectWithKeyAndValue(recipes, prop, amount){
   recipes[prop]="1"
-  recipes[prop2]="2"
   return recipes
 }
