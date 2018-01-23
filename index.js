@@ -11,6 +11,6 @@ var props = {
   prop:"1"
 }
 function updateObjectWithKeyAndValue(props, prop, amount){
-  props[prop2]="2"
+  props.prop2="2"
   return props
 }
